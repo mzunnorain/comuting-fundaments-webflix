@@ -1,2 +1,2 @@
-# comuting-fundaments-webflix
+# computing-fundaments-webflix
 project
